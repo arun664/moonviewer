@@ -19,7 +19,7 @@ function MoonInfo() {
 					<Stack spacing={2}>
 						<Box sx={{ typography: "body1" }}>
 							The brightest and largest object in our night sky, the Moon makes
-							Earth a more livable planet by moderating our home planet's wobble
+							Earth a more livable planet by moderating our home planet`&rsquo;`s wobble
 							on its axis, leading to a relatively stable climate. It also
 							causes tides, creating a rhythm that has guided humans for
 							thousands of years.
@@ -29,12 +29,12 @@ function MoonInfo() {
 							Earth several billion years ago.
 						</Box>
 						<Box sx={{ typography: "body1" }}>
-							Earth's Moon is the only place beyond Earth where humans have set
+							Earth`&rsquo;`s Moon is the only place beyond Earth where humans have set
 							foot, so far.
 						</Box>
 						<Box sx={{ typography: "body1" }}>
-							Earth's only natural satellite is simply called "the Moon" because
-							people didn't know other moons existed until Galileo Galilei
+							Earth`&rsquo;`s only natural satellite is simply called `&ldquo;`the Moon`&rdquo;` because
+							people didn`&rsquo;`t know other moons existed until Galileo Galilei
 							discovered four moons orbiting Jupiter in 1610.
 						</Box>
 						<Box sx={{ typography: "body1" }}>
